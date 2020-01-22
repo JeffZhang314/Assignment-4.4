@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GoldbachConjecture
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=void\ sum2P(int)
+comment3.params=n
+comment3.target=java.util.ArrayList\ allPsMost(int)
+numComments=4
